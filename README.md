@@ -13,4 +13,4 @@ For example: instead of: ```pydoc -p 1234``` command you can write: ```python dj
 You can use all the `pydoc` commands with `django-pydic` in the above process.
 
 ## More About `pydoc` Commands
-Please read official documentation of `pydoc` to learn about the functionality and commands.
+Please read [official documentation of `pydoc`](https://docs.python.org/2/library/pydoc.html) to learn about the functionality and commands.
